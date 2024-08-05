@@ -1,3 +1,4 @@
-django
-djangorestframework
-django-password-validators
+Django==5.0.7
+django-password-validators==1.7.3
+djangorestframework==3.15.2
+whitenoise==6.7.0
